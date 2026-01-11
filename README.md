@@ -4,15 +4,6 @@ This repository contains projects, simulations, and lab implementations for the 
 
 ---
 
-## 📌 Overview
-This repository documents the practical application of core ECE concepts from the **Jan-May 2026** session. It covers the following core subjects:
-
-* **Digital Signal Processing (UE24EC251B)**
-* **Digital VLSI Design (UE24EC252B)**
-* **Control Systems (UE24EE241B)**
-* **Electromagnetic Field Theory (UE24EE242B)**
-* **Linear Algebra (UE24MA241B)**
-
 
 ## 🚀 Lab & Projects
 - **VLSI Design:** Focused on CMOS logic, combinational, and sequential circuit design.
